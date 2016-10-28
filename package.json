@@ -1,0 +1,6 @@
+{
+  "name": "promise-util",
+  "scripts": {
+    "test": "mocha"
+  }
+}
